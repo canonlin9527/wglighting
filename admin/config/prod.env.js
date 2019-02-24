@@ -1,5 +1,5 @@
 'use strict'
 module.exports = {
   NODE_ENV: '"production"',
-  HOST: '"https://server.raydom.wang/"'
+  HOST: '"http://lmjn.applinzi.com/"'
 }

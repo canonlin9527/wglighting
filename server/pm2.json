@@ -1,8 +1,8 @@
 {
   "apps": [{
-    "name": "photo2.0\server",
+    "name": "wglighting\server",
     "script": "production.js",
-    "cwd": "D:\projects\photo2.0\server",
+    "cwd": "/var/www/wglighting/server",
     "exec_mode": "fork",
     "max_memory_restart": "1G",
     "autorestart": true,

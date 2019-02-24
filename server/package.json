@@ -2,7 +2,7 @@
   "name": "server",
   "description": "application created by thinkjs",
   "version": "1.0.0",
-  "author": "raydom007@163.com",
+  "author": "canon.lyn@163.com",
   "scripts": {
     "start": "node development.js",
     "test": "THINK_UNIT_TEST=1 nyc ava test/ && nyc report --reporter=html",
@@ -47,10 +47,10 @@
     "metadata": {
       "name": "photo2.0\\server",
       "description": "application created by thinkjs",
-      "author": "raydom007@163.com",
+      "author": "canon.lyn@163.com",
       "babel": true
     },
-    "projectName": "photo2.0\\server",
+    "projectName": "wglighting\\server",
     "template": "C:\\Users\\lenovo\\AppData\\Roaming\\npm\\node_modules\\think-cli\\default_template",
     "clone": false,
     "isMultiModule": false
